@@ -1,6 +1,9 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
+# skład grupy:
+# Konrad Biel, Filip Cepiga, Tomasz Bryndza
+
 import unittest
 from collections import Counter
 from servers import ListServer, Product, Client, MapServer, TooManyProductsFoundError
